@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tarodando-com-br-docs-33961f28",
+  "source": {
+    "issue": 3305,
+    "projectUrl": "https://tarodando.com.br/docs"
+  },
+  "links": {
+    "endpoint": "https://tarodando.com.br/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Any client that supports remote Streamable HTTP MCP servers"
+  ],
+  "license": "Proprietary (closed source)"
+}
