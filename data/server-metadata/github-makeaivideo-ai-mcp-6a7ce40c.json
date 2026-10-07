@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-makeaivideo-ai-mcp-6a7ce40c",
+  "source": {
+    "issue": 3312,
+    "projectUrl": "https://github.com/makeaivideo-ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.makeaivideo.ai"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MAKEAIVIDEO_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Cline",
+    "Zed"
+  ],
+  "license": "MIT"
+}
