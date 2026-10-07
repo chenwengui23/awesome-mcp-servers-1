@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-contracko-contracko-skills-d65fb502",
+  "source": {
+    "issue": 3303,
+    "projectUrl": "https://github.com/contracko/contracko-skills"
+  },
+  "links": {
+    "endpoint": "https://app.contracko.com/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Gemini CLI",
+    "Grok"
+  ],
+  "license": "MIT (skills and launcher); the hosted server is proprietary."
+}
