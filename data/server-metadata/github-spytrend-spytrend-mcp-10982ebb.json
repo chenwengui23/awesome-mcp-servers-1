@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-spytrend-spytrend-mcp-10982ebb",
+  "source": {
+    "issue": 3300,
+    "projectUrl": "https://github.com/Spytrend/spytrend-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cherlysch in #3300 under the community profile-claim process.",
+      "Requested profile metadata in #3300: Description: Analytics, advertising: Facebook/Meta, TikTok, competitor ads. Free plan; Spytrend OAuth in browser Category: Marketing, Sales & CRM Homepage:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cherlysch"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
